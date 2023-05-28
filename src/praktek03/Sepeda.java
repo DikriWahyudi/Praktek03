@@ -10,4 +10,29 @@ public class Sepeda {
                            "Harga \t : " + Harga);
     }
 
+    public String getMerk() {
+        return Merk;
+    }
+
+    public void setMerk(String Merk) {
+        this.Merk = Merk;
+    }
+
+    public String getWarna() {
+        return Warna;
+    }
+
+    public void setWarna(String Warna) {
+        this.Warna = Warna;
+    }
+
+    public double getHarga() {
+        return Harga;
+    }
+
+    public void setHarga(double Harga) {
+        this.Harga = Harga;
+    }
+    
+    
 }
