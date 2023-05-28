@@ -13,5 +13,5 @@ public class SepedaMotor extends Sepeda{
     public void setJenisMotor(String jenisMotor) {
         this.jenisMotor = jenisMotor;
     }
-    
+   
 }
